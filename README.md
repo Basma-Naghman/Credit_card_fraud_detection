@@ -43,7 +43,7 @@ Modeling
 Logistic Regression
 
 
-Evaluation using accuracy, precision, recall, F1-score
+Evaluation using accuracy
 
 Model Evaluation
 
